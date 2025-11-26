@@ -4,6 +4,7 @@ venev/
 .venv/
 env/
 .env/
+ctf/
 
 # Datasets
 datasets/
